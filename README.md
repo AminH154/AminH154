@@ -3,10 +3,10 @@
     <td align="left" width="60%">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aminbouallegu;full stack developer;And iot Studient;Always+Learning...&center=false&size=28" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aminbouallegu;Full Stack+Developer;Iot+Studient;Always+Learning...&center=false&size=28" />
 </h1>
 
-<h3>A passionate frontend developer from Tunisia 🇹🇳</h3>
+<h3>A passionate Full stack developer from Tunisia 🇹🇳</h3>
 
 - 🌱 Currently learning: **MongoDB schema, Express routes, React integration**
 - 💼 Focused on: **MEARN Stack, Android, Arduino, Firebase**
