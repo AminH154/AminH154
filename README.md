@@ -4,7 +4,7 @@
       <h1>
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,I'm+Aminbouallegu;Full+Stack+Developer;IoT+Student;Always+Learning...&size=28" alt="Typing SVG" />
       </h1>
-      <h3>A passionate frontend developer from Tunisia 🇹🇳</h3>
+      <h3>A passionate Full stack developer from Tunisia 🇹🇳</h3>
       <p>
         <img src="https://komarev.com/ghpvc/?username=aminh154&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
       </p>
