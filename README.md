@@ -1,19 +1,18 @@
 <table width="100%">
   <tr>
     <td align="left" width="60%">
-      <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aminbouallegu;Full+Stack+Developer;IoT+Student;Always+Learning...&center=false&size=28" />
-      </h1>
 
-      <h3>A passionate Full Stack Developer from Tunisia 🇹🇳</h3>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aminbouallegu;Full+Stack+Developer;IoT+Student;Always+Learning...&center=false&size=28" />
+</h1>
 
-      - 🌱 Currently learning: **MongoDB schemas, Express routes, React integration**  
-      - 💼 Focused on: **MERN Stack, Android, Arduino, Firebase**  
-      - 📫 Reach me via Instagram: [@aminbouallegu](https://instagram.com/aminbouallegu)  
-      - 👀 Profile views:  
-        <img src="https://komarev.com/ghpvc/?username=aminh154&label=Profile+Views&color=0e75b6&style=flat" alt="aminh154" />
-    </td>
-    
+<h3>A passionate frontend developer from Tunisia 🇹🇳</h3>
+
+- 🌱 Currently learning: **MongoDB schema, Express routes, React integration**
+- 💼 Focused on: **MEARN Stack, Android, Arduino, Firebase**
+- 📫 Reach me via Instagram: [@aminbouallegu](https://instagram.com/aminbouallegu)
+
+</td>
     <td align="center" width="40%">
       <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-content-animated-A856GXrXQ9SM17oe.gif" alt="coding gif" width="250" />
     </td>
@@ -25,9 +24,10 @@
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://instagram.com/aminbouallegu" target="_blank">
-    <img src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white](https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-content-animated-A856GXrXQ9SM17oe.gif)"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
