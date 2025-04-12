@@ -3,7 +3,8 @@
     <td align="left" width="60%">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aminbouallegu;Full+Stack+Developer;IoT+Student;Always+Learning...&center=false&size=28" />
+  <img src="[https://readme-typing-svg.herokuapp.com/?lines=Hi+👋](https://komarev.com/ghpvc/?username=TON_USERNAME&label=Profile%20views&color=0e75b6&style=flat
+),+I'm+Aminbouallegu;Full+Stack+Developer;IoT+Student;Always+Learning...&center=false&size=28" />
 </h1>
 
 <h3>A passionate frontend developer from Tunisia 🇹🇳</h3>
@@ -11,14 +12,15 @@
 - 🌱 Currently learning: **MongoDB schema, Express routes, React integration**
 - 💼 Focused on: **MEARN Stack, Android, Arduino, Firebase**
 - 📫 Reach me via Instagram: [@aminbouallegu](https://instagram.com/aminbouallegu)
+ 
+<img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  
 
 </td>
     <td align="center" width="40%">
       <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-content-animated-A856GXrXQ9SM17oe.gif" alt="coding gif" width="250" />
     </td>
-     <td align="right" width="40%">
-      <img src="./assets/coding.gif" alt="coding gif" width="250" />
-    </td>
+    
   </tr>
 </table>
 
