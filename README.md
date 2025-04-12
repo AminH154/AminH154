@@ -25,7 +25,7 @@
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://instagram.com/aminbouallegu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white](https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-content-animated-A856GXrXQ9SM17oe.gif)"/>
   </a>
 </p>
 
