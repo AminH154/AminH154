@@ -3,7 +3,7 @@
     <td align="left" width="60%">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aminbouallegu;Frontend+Developer;MEARN+Stack+Lover;Always+Learning...&center=false&size=28" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aminbouallegu;full stack developer;And iot Studient;Always+Learning...&center=false&size=28" />
 </h1>
 
 <h3>A passionate frontend developer from Tunisia 🇹🇳</h3>
