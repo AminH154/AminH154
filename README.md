@@ -2,7 +2,7 @@
   <tr>
     <td align="left" width="60%">
       <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aminbouallegu;Frontend+Developer;MEARN+Stack+Lover;Always+Learning...&center=false&size=28" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,I'm+Aminbouallegu;Full+Stack+Developer;IoT+Student;Always+Learning...&size=28" alt="Typing SVG" />
       </h1>
       <h3>A passionate frontend developer from Tunisia 🇹🇳</h3>
       <p>
@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td align="right" width="40%">
-      <img src="./assets/coding.gif" alt="Coding Animation" width="250" />
+      <img src="[./assets/coding.gif](https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-content-animated-A856GXrXQ9SM17oe.gif)" alt="Coding Animation" width="250" />
     </td>
   </tr>
 </table>
