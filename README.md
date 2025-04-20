@@ -130,15 +130,14 @@
         <li><a href="https://github.com/AminH154/EniMarket" target="_blank">View Project</a></li>
       </ul>
     </td>
-    td width="50%">
+   <td width="50%">
       <h4>📚 Quiz Game - Learn Flags</h4>
       <ul>
         <li>Gamified learning for students</li>
         <li>Built with flutter </li>
         <li><a href="https://github.com/AminH154/quizflags_app" target="_blank">View Project</a></li>
       </ul>
-    </td>
-   
+   </td>
   </tr>
 
 </table>
