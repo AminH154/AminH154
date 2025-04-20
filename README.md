@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
 </a>
 
-<a href="https://www.linkedin.com/in/aminbouallegu" target="_blank">
+<a href="[https://www.linkedin.com/in/aminbouallegu](https://www.linkedin.com/in/amine-bouallegui-70b9b3356)" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 </p>
