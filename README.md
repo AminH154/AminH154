@@ -119,3 +119,45 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminh154" alt="GitHub Streak" />
 </p>
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🛍️ University Marketplace Platform</h4>
+      <ul>
+        <li>Built with Angular, Firebase, and Node.js</li>
+        <li>Allows students to buy, sell, and exchange items</li>
+        <li>Real-time chat, smart recommendations</li>
+        <li><a href="https://github.com/aminh154/university-marketplace" target="_blank">View Project</a></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>👟 Smart Shoe (IoT Project)</h4>
+      <ul>
+        <li>Powered by ESP32 with pressure and flex sensors</li>
+        <li>Tracks gait, posture, and fitness metrics</li>
+        <li>Ideal for athletes & health monitoring</li>
+        <li><a href="https://github.com/aminh154/smart-shoe-iot" target="_blank">View Project</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📚 Quiz Game - Learn History & Math</h4>
+      <ul>
+        <li>Gamified learning for students</li>
+        <li>Built with Angular + Firebase</li>
+        <li>Admin panel for content management</li>
+        <li><a href="https://github.com/aminh154/edu-quiz-game" target="_blank">View Project</a></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>📱 React Native Mobile App</h4>
+      <ul>
+        <li>Cross-platform notes & reminders app</li>
+        <li>Offline-first with Firebase Sync</li>
+        <li>Dark mode + Push notifications</li>
+        <li><a href="https://github.com/aminh154/mobile-notes-app" target="_blank">View Project</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
