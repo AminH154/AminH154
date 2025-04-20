@@ -4,7 +4,7 @@
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,I'm+Aminbouallegu;Full+Stack+Developer;IoT+Student;Always+Learning...&size=28" alt="Typing SVG" />
 </h1>
-<h3>A passionate Full stack developer from Tunisia 🇹🇳</h3>
+<h3>A passionate Mern stack react js,express js ,node js and mangoDb  from Tunisia 🇹🇳 </h3>
 <p>
 <img src="https://komarev.com/ghpvc/?username=aminh154&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -124,40 +124,21 @@
     <td width="50%">
       <h4>🛍️ University Marketplace Platform</h4>
       <ul>
-        <li>Built with Angular, Firebase, and Node.js</li>
+        <li>Built with reacr js, express js,Node.js and mango db</li>
         <li>Allows students to buy, sell, and exchange items</li>
         <li>Real-time chat, smart recommendations</li>
-        <li><a href="https://github.com/aminh154/university-marketplace" target="_blank">View Project</a></li>
+        <li><a href="https://github.com/AminH154/EniMarket" target="_blank">View Project</a></li>
       </ul>
     </td>
-    <td width="50%">
-      <h4>👟 Smart Shoe (IoT Project)</h4>
-      <ul>
-        <li>Powered by ESP32 with pressure and flex sensors</li>
-        <li>Tracks gait, posture, and fitness metrics</li>
-        <li>Ideal for athletes & health monitoring</li>
-        <li><a href="https://github.com/aminh154/smart-shoe-iot" target="_blank">View Project</a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📚 Quiz Game - Learn History & Math</h4>
+    td width="50%">
+      <h4>📚 Quiz Game - Learn Flags</h4>
       <ul>
         <li>Gamified learning for students</li>
-        <li>Built with Angular + Firebase</li>
-        <li>Admin panel for content management</li>
-        <li><a href="https://github.com/aminh154/edu-quiz-game" target="_blank">View Project</a></li>
+        <li>Built with flutter </li>
+        <li><a href="https://github.com/AminH154/quizflags_app" target="_blank">View Project</a></li>
       </ul>
     </td>
-    <td width="50%">
-      <h4>📱 React Native Mobile App</h4>
-      <ul>
-        <li>Cross-platform notes & reminders app</li>
-        <li>Offline-first with Firebase Sync</li>
-        <li>Dark mode + Push notifications</li>
-        <li><a href="https://github.com/aminh154/mobile-notes-app" target="_blank">View Project</a></li>
-      </ul>
-    </td>
+   
   </tr>
+
 </table>
