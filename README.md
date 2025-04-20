@@ -4,7 +4,7 @@
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,I'm+Aminbouallegu;Full+Stack+Developer;IoT+Student;Always+Learning...&size=28" alt="Typing SVG" />
 </h1>
-<h3>A passionate Mern stack react js,express js ,node js and mangoDb  from Tunisia 🇹🇳 </h3>
+<h3>A passionate Mern stack react js,express js ,node js and mangoDb  from Tunisia 🇹🇳 <img src="https://flagcdn.com/w40/tn.png" width="30" alt="Tunisian Flag"/></h3>
 <p>
 <img src="https://komarev.com/ghpvc/?username=aminh154&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
