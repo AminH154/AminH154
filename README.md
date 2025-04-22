@@ -1,4 +1,4 @@
-<table width="100%">
+![image](https://github.com/user-attachments/assets/eaad32c2-02d6-488d-80b8-e3fc678d2753)<table width="100%">
 <tr>
 <td align="left" width="60%">
 <h1>
@@ -9,7 +9,7 @@
 <ul>
 <li>🌱 Currently learning: <strong>MongoDB schema, Express routes, React integration</strong></li>
 <li>💼 Focused on: <strong>MERN Stack, Android, Arduino, Firebase</strong></li>
-<li>📫 Reach me via Instagram: <a href="https://instagram.com/aminbouallegu">@aminbouallegu</a></li>
+<li>📫 Reach me via Linkedin: <a href="https://www.linkedin.com/in/amine-bouallegui-70b9b3356">@aminebouallegui</a></li>
 </ul>
 </td>
 <td align="right" width="40%">
