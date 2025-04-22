@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eaad32c2-02d6-488d-80b8-e3fc678d2753)<table width="100%">
+
 <tr>
 <td align="left" width="60%">
 <h1>
