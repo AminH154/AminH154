@@ -4,7 +4,7 @@
 <h1>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,I'm+Aminbouallegu;Full+Stack+Developer;IoT+Student;Always+Learning...&size=28" alt="Typing SVG" />
 </h1>
-<h3>A passionate MERN stack developer (React.js, Express.js, Node.js, and MongoDB) from Tunisia 🇹🇳<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Drapeau de la Tunisie" width="30" /></h3>
+<h3>A passionate MERN stack developer (React.js, Express.js, Node.js, and MongoDB ) from Tunisia 🇹🇳<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Drapeau de la Tunisie" width="30" /></h3>
 
 <ul>
 <li>🌱 Currently learning: <strong>MongoDB schema, Express routes, React integration</strong></li>
